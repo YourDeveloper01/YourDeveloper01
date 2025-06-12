@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **Full-Stack Developement**
 
-- 💬 Ask me about **react.js**
+- 💬 Ask me about **react.js,node.js**
 
 - 📫 How to reach me **vikasmandal87007@gmail.com**
 
-- ⚡ Fun fact **coding like i m gyming**
+- ⚡ Fun fact **Your friendly neighborhood frontend developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
