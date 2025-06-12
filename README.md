@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **vikasmandal87007@gmail.com**
 
-- ⚡ Fun fact **Your friendly neighborhood frontend developer**
+- ⚡ Fun fact **Saving the internet, one div at a time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
