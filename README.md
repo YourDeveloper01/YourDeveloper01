@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vikash</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yourdeveloper01" alt="yourdeveloper01" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?" alt="yourdeveloper01" /></a> </p>
 <img align="right" width="400" src="https://github.com/YourDeveloper01/YourDeveloper01/blob/main/git%20photo.avif?raw=true">
 
 - 🔭 I’m currently working on **Gym_Site**
