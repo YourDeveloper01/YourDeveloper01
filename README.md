@@ -1,28 +1,33 @@
-<h1 align="center">Hi 👋, I'm Vikash</h1>
-<h3 align="center">Frontend Developer | Next.js & React Enthusiast | Full-Stack Aspirant</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F2FE&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Vikash;A+Frontend+Developer;Next.js+%26+React+Expert" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" alt="Developer Animation" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yourdeveloper01&theme=tokyonight&margin-w=15&column=7" alt="trophies" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnU0b3VnbHNwY3B2b3Z0dWZueGd6dWZxeDBlbXBmYnd6ZWRydjU4ZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Futuristic Developer Animation" />
 </p>
 
 ---
 
-### 🚀 About Me
+### 🌐 Overview::System_Status
 
 <p align="left">
-<img align="right" alt="Futuristic Coding Animation" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjRuenGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/M9Z4wBCEH36F9C2Y2Z/giphy.gif">
+<img align="right" alt="Futuristic Robot Coding" width="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3ZndXRidWxlcHR4bWR6czV4MXZzbmR1dXV6dXRyZjdudXB5cXp1eiZjdD1n/3og0IFrHkBC5vA60Mg/giphy.gif">
 
-- 💻 **Tech Stack:** Specialized in **React**, **Next.js**, and **Tailwind CSS**.
-- 🔭 Currently exploring: **Node.js Backend & API Systems**.
-- 🌱 Learning Goal: To become a proficient **Full-Stack Developer**.
-- 💬 Expertise: UI/UX Logic, Responsive Design, and Frontend Architecture.
-- 📫 Reach me at: **vikasmandal87007@gmail.com**
-- ⚡ Fun fact: **"I don't always test my code, but when I do, I do it in production." 😂**
+- 💻 **Core_Tech:** Specialized in **React**, **Next.js**, and **Tailwind CSS**.
+- 🔭 **Current_Mission:** Exploring **Node.js Backend & API Architectures**.
+- 🌱 **Learning_Path:** Evolving into a proficient **Full-Stack Developer**.
+- 💬 **Expertise:** UI/UX Logic, Responsive Design, and Frontend Optimization.
+- 📫 **Ping_Me:** **vikasmandal87007@gmail.com**
+- ⚡ **Fun_Fact:** **"I am saving the internet, one `<div>` at a time."**
 </p>
 
 ---
 
-### 🛠 Languages and Tools
+### 🛠 Tech_Stack::Loaded
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -36,24 +41,29 @@
 
 ---
 
-### 📊 GitHub Analysis
+### 📊 GitHub::Analytics_Hub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourdeveloper01&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourdeveloper01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
 </p>
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourdeveloper01&layout=compact&theme=tokyonight&hide_border=false" alt="top-langs" />
-</p> -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourdeveloper01&layout=compact&theme=tokyonight&hide_border=true" alt="TopLangs" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=yourdeveloper01&theme=tokyonight&hide_border=true" alt="Streak" />
+</p>
 
 ---
 
-### 🤝 Connect with me
+### 🤝 Secure_Connection::Initiated
 
 <p align="center">
-<a href=(https://www.linkedin.com/in/vikas-mandal-dev5551/)target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/vikas-mandal-661aa82b7" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://instagram.com/gentle_.beasst" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourdeveloper01&label=Profile%20Views&color=blue&style=flat-square" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=yourdeveloper01&label=Profile%20Views&color=00F2FE&style=flat-square" alt="views" />
 </p>
