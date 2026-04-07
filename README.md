@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer | Next.js & React Enthusiast | Full-Stack Aspirant</h3>
 
 <p align="center">
-  <img src="http://googleusercontent.com/image_collection/image_retrieval/12228031333870159195_0" width="600" alt="Developer Illustration" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" alt="Developer Animation" />
 </p>
 
 <p align="center">
@@ -14,14 +14,14 @@
 ### 🚀 About Me
 
 <p align="left">
-<img align="right" alt="Coding Setup" width="300" src="http://googleusercontent.com/image_collection/image_retrieval/2488553051954577027_1">
+<img align="right" alt="Coding Setup" width="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 - 💻 **Tech Stack:** Specialized in **React**, **Next.js**, and **Tailwind CSS**.
 - 🔭 Currently exploring: **Node.js Backend & API Systems**.
 - 🌱 Learning Goal: To become a proficient **Full-Stack Developer**.
 - 💬 Expertise: UI/UX Logic, Responsive Design, and Frontend Architecture.
 - 📫 Reach me at: **vikasmandal87007@gmail.com**
-- ⚡ Fun fact: **"I don't always test my code, but when I do, I do it in production." (Just kidding! 😂)**
+- ⚡ Fun fact: **"I don't always test my code, but when I do, I do it in production." 😂**
 </p>
 
 ---
@@ -50,17 +50,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourdeveloper01&layout=compact&theme=tokyonight&hide_border=false" alt="top-langs" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourdeveloper01&theme=tokyonight&hide_border=false" alt="streak" />
-</p>
-
 ---
 
 ### 🤝 Connect with me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/vikas-mandal-661aa82b7" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/gentle_.beasst" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href=(https://www.linkedin.com/in/vikas-mandal-dev5551/)target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center">
