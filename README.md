@@ -2,14 +2,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F2FE&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Vikash;A+Frontend+Developer;Next.js+%26+React+Expert" alt="Typing SVG" />
 </h1>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnU0b3VnbHNwY3B2b3Z0dWZueGd6dWZxeDBlbXBmYnd6ZWRydjU4ZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Futuristic Developer Animation" />
+</p>
+
 ---
 
 ### 🌐 Overview::System_Status
 
 <p align="left">
-<img align="right" alt="Futuristic Coding Animation" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjRuenGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/M9Z4wBCEH36F9C2Y2Z/giphy.gif">
-
-
+<img align="right" alt="Futuristic Robot Coding" width="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3ZndXRidWxlcHR4bWR6czV4MXZzbmR1dXV6dXRyZjdudXB5cXp1eiZjdD1n/3og0IFrHkBC5vA60Mg/giphy.gif">
 
 - 💻 **Core_Tech:** Specialized in **React**, **Next.js**, and **Tailwind CSS**.
 - 🔭 **Current_Mission:** Exploring **Node.js Backend & API Architectures**.
@@ -36,6 +38,8 @@
 ---
 
 ### 📊 GitHub::Analytics_Hub
+
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=yourdeveloper01&theme=tokyonight&hide_border=true" alt="Streak" />
