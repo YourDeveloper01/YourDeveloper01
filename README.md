@@ -10,8 +10,8 @@
 
 ### 🌐 Overview::System_Status
 
-<p align="left">
-<img align="right" alt="Futuristic Robot Coding" width="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3ZndXRidWxlcHR4bWR6czV4MXZzbmR1dXV6dXRyZjdudXB5cXp1eiZjdD1n/3og0IFrHkBC5vA60Mg/giphy.gif">
+<!-- <p align="left">
+<img align="right" alt="Futuristic Robot Coding" width="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3ZndXRidWxlcHR4bWR6czV4MXZzbmR1dXV6dXRyZjdudXB5cXp1eiZjdD1n/3og0IFrHkBC5vA60Mg/giphy.gif"> -->
 
 - 💻 **Core_Tech:** Specialized in **React**, **Next.js**, and **Tailwind CSS**.
 - 🔭 **Current_Mission:** Exploring **Node.js Backend & API Architectures**.
