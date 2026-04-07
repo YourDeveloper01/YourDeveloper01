@@ -5,16 +5,12 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" alt="Developer Animation" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourdeveloper01&theme=tokyonight&column=7" alt="yourdeveloper01" />
-</p>
-
 ---
 
 ### 🚀 About Me
 
 <p align="left">
-<img align="right" alt="Coding Setup" width="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img align="right" alt="Futuristic Coding Animation" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjRuenGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/M9Z4wBCEH36F9C2Y2Z/giphy.gif">
 
 - 💻 **Tech Stack:** Specialized in **React**, **Next.js**, and **Tailwind CSS**.
 - 🔭 Currently exploring: **Node.js Backend & API Systems**.
@@ -46,9 +42,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yourdeveloper01&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true" alt="stats" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourdeveloper01&layout=compact&theme=tokyonight&hide_border=false" alt="top-langs" />
-</p>
+</p> -->
 
 ---
 
