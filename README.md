@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vikash</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yourdeveloper01" alt="yourdeveloper01" /></a> </p>
-<!-- <img align="right" alt="" width="400" src="https://github.com/user-attachments/assets/e47424f8-05fa-47d2-826c-87fe95f4753a"> --> -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yourdeveloper01" alt="yourdeveloper01" /></a> </p>
+<img align="right" alt="" width="400" src="https://github.com/user-attachments/assets/e47424f8-05fa-47d2-826c-87fe95f4753a">
 
 - 🔭 I’m currently working on **Backend_node.js**
 
