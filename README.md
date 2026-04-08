@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnU0b3VnbHNwY3B2b3Z0dWZueGd6dWZxeDBlbXBmYnd6ZWRydjU4ZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Futuristic Developer Animation" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnU0b3VnbHNwY3B2b3Z0dWZueGd6dWZxeDBlbXBmYnd6ZWRydjU4ZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Futuristic Developer Animation" />
 </p>
 
 ---
