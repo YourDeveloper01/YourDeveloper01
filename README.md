@@ -14,8 +14,8 @@
   <tr>
     <td width="60%" style="vertical-align: top;">
       <ul style="list-style: none; padding-left: 0;">
-       <li>💻 <b>Core_Tech:</b>
-               Specialized in <b>React</b>, <b>Next.js</b>, and <b>Tailwind CSS</b>. </li>
+       <li>💻 Core_Tech:
+              <b> Specialized in <b>React</b>, <b>Next.js</b>, and <b>Tailwind CSS</b></b>. </li>
        <li>🔭 <b>Current_Mission:</b> 
                Exploring <b>Node.js Backend & API Architectures</b>. </li>
        <li>🌱 <b>Learning_Path:</b> 
