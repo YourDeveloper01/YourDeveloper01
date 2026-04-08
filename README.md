@@ -18,12 +18,11 @@
        <li>🔭 <b>Current_Mission:</b> Exploring <b>Node.js Backend & API Architectures</b>. </li>
        <li>🌱 <b>Learning_Path:</b> Evolving into a proficient <b>Full-Stack Developer</b>. </li>
        <li>💬 <b>Expertise:</b> UI/UX Logic, Responsive Design, and Frontend Optimization. </li>
-       <li>📫 <b>Ping_Me:</b> <b>vikasmandal87007@gmail.com</b> [cite: 9]</li>
+       <li>📫 <b>Ping_Me:</b> <b>vikasmandal87007@gmail.com</b></li>
        <li>⚡ <b>Fun_Fact:</b> <b>"I am saving the internet, one <code>&lt;div&gt;</code> at a time."</b></li>
       </ul>
     </td>
-   
-  </tr>
+   </tr>
 </table>
 
 ---
