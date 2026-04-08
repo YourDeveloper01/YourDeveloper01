@@ -8,7 +8,7 @@
 
 ---
 
-### 🌐 Overview::System_Status
+### 🌐 Overview:System_Status
 
 <!-- <p align="left">
 <img align="right" alt="Futuristic Robot Coding" width="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3ZndXRidWxlcHR4bWR6czV4MXZzbmR1dXV6dXRyZjdudXB5cXp1eiZjdD1n/3og0IFrHkBC5vA60Mg/giphy.gif"> -->
@@ -23,7 +23,7 @@
 
 ---
 
-### 🛠 Tech_Stack::Loaded
+### 🛠 Tech_Stack:Loaded
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -37,7 +37,7 @@
 
 ---
 
-### 📊 GitHub::Analytics_Hub
+### 📊 GitHub:Analytics_Hub
 
 
 
@@ -47,7 +47,7 @@
 
 ---
 
-### 🤝 Secure_Connection::Initiated
+### 🤝 Secure_Connection:Initiated
 
 <p align="center">
 <a href="https://www.linkedin.com/in/vikas-mandal-661aa82b7" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
