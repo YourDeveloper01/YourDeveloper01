@@ -14,12 +14,17 @@
   <tr>
     <td width="60%" style="vertical-align: top;">
       <ul style="list-style: none; padding-left: 0;">
-       <li>💻 <b>Core_Tech:</b> Specialized in <b>React</b>, <b>Next.js</b>, and <b>Tailwind CSS</b>. </li>
-       <li>🔭 <b>Current_Mission:</b> Exploring <b>Node.js Backend & API Architectures</b>. </li>
-       <li>🌱 <b>Learning_Path:</b> Evolving into a proficient <b>Full-Stack Developer</b>. </li>
-       <li>💬 <b>Expertise:</b> UI/UX Logic, Responsive Design, and Frontend Optimization. </li>
+       <li>💻 <b>Core_Tech:</b>
+               Specialized in <b>React</b>, <b>Next.js</b>, and <b>Tailwind CSS</b>. </li>
+       <li>🔭 <b>Current_Mission:</b> 
+               Exploring <b>Node.js Backend & API Architectures</b>. </li>
+       <li>🌱 <b>Learning_Path:</b> 
+               Evolving into a proficient <b>Full-Stack Developer</b>. </li>
+       <li>💬 <b>Expertise:</b> 
+               UI/UX Logic, Responsive Design, and Frontend Optimization. </li>
        <li>📫 <b>Ping_Me:</b> <b>vikasmandal87007@gmail.com</b></li>
-       <li>⚡ <b>Fun_Fact:</b> <b>"I am saving the internet, one <code>&lt;div&gt;</code> at a time."</b></li>
+       <li>⚡ <b>Fun_Fact:</b> 
+            <b>"I am saving the internet, one <code>&lt;div&gt;</code> at a time."</b></li>
       </ul>
     </td>
    </tr>
