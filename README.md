@@ -22,10 +22,7 @@
        <li>⚡ <b>Fun_Fact:</b> <b>"I am saving the internet, one <code>&lt;div&gt;</code> at a time."</b></li>
       </ul>
     </td>
-    <td width="40%" align="center">
-      <video src=""C:\Users\vikas\Videos\readmevideo.mp4"" width="300" autoplay loop muted playsinline style="transform: scaleX(-1);"></video>
-      <p><i>System Scanning...</i></p>
-    </td>
+   
   </tr>
 </table>
 
