@@ -50,7 +50,7 @@
 ### 🤝 Secure_Connection:Initiated
 
 <p align="center">
-<a href="https://www.linkedin.com/in/vikas-mandal-661aa82b7" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/vikas-mandal-dev5551/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourdeveloper01&label=Profile%20Views&color=00F2FE&style=flat-square" alt="views" />
