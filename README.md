@@ -10,16 +10,24 @@
 
 ### 🌐 Overview:System_Status
 
-<!-- <p align="left">
-<img align="right" alt="Futuristic Robot Coding" width="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3ZndXRidWxlcHR4bWR6czV4MXZzbmR1dXV6dXRyZjdudXB5cXp1eiZjdD1n/3og0IFrHkBC5vA60Mg/giphy.gif"> -->
-
-- 💻 **Core_Tech:** Specialized in **React**, **Next.js**, and **Tailwind CSS**.
-- 🔭 **Current_Mission:** Exploring **Node.js Backend & API Architectures**.
-- 🌱 **Learning_Path:** Evolving into a proficient **Full-Stack Developer**.
-- 💬 **Expertise:** UI/UX Logic, Responsive Design, and Frontend Optimization.
-- 📫 **Ping_Me:** **vikasmandal87007@gmail.com**
-- ⚡ **Fun_Fact:** **"I am saving the internet, one `<div>` at a time."**
-</p>
+<table>
+  <tr>
+    <td width="60%" style="vertical-align: top;">
+      <ul style="list-style: none; padding-left: 0;">
+        [cite_start]<li>💻 <b>Core_Tech:</b> Specialized in <b>React</b>, <b>Next.js</b>, and <b>Tailwind CSS</b>. [cite: 1, 2, 22]</li>
+        [cite_start]<li>🔭 <b>Current_Mission:</b> Exploring <b>Node.js Backend & API Architectures</b>. [cite: 18, 23]</li>
+        [cite_start]<li>🌱 <b>Learning_Path:</b> Evolving into a proficient <b>Full-Stack Developer</b>. [cite: 21, 23, 24]</li>
+        [cite_start]<li>💬 <b>Expertise:</b> UI/UX Logic, Responsive Design, and Frontend Optimization. [cite: 13, 22]</li>
+        <li>📫 <b>Ping_Me:</b> <b>vikasmandal87007@gmail.com</b> [cite: 9]</li>
+        <li>⚡ <b>Fun_Fact:</b> <b>"I am saving the internet, one <code>&lt;div&gt;</code> at a time."</b></li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <video src="YOUR_UPLOADED_VIDEO_URL" width="300" autoplay loop muted playsinline style="transform: scaleX(-1);"></video>
+      <p><i>System Scanning...</i></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
