@@ -8,7 +8,7 @@
 
 ---
 
-### 🌐 Overview:System_Status
+### 🌐 Over_view
 
 <table>
   <tr>
@@ -32,7 +32,7 @@
 
 ---
 
-### 🛠 Tech_Stack:Loaded
+### 🛠 Tech_Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -46,7 +46,7 @@
 
 ---
 
-### 📊 GitHub:Analytics_Hub
+### 📊Analytics_Hub
 
 
 
@@ -56,7 +56,7 @@
 
 ---
 
-### 🤝 Secure_Connection:Initiated
+### 🤝 Secure_Connection
 
 <p align="center">
 <a href="https://www.linkedin.com/in/vikas-mandal-dev5551/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
